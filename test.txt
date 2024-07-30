@@ -1,1 +1,2 @@
 1.2.3.4 lohsklients.lv
+192.168.9.1 elvo3d.lv
