@@ -1,3 +1,6 @@
 1.2.3.4 lohsklients.lv
 192.168.9.1 elvo3d.lv
 0.0.0.0 elvijs.lv
+1.2.3.4 viensdivi.lv
+192.168.9.2 trakumiem.lv
+0.0.0.0 nenujaelvijs.lv
